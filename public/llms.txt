@@ -1,0 +1,105 @@
+# Bandolero — Generative Engine Optimization Map
+
+> An online women's swimwear store focused on selling swimsuits and beachwear. The brand targets female shoppers looking to purchase swimwear online, with a potential emphasis on style, fit, and variety for different body types and tastes.
+
+---
+
+## Pages
+
+### בית
+https://bandolero-41792347.zappy5.app
+ברוכה הבאה לעולם בגדי הים של Bandolero. קולקציית swimwear מעוצבת שמחמיאה לכל גזרה. מגוון סגנונות, צבעים ומידות מחכים לך. כנסי עכשיו ומצאי את הלוק שיהפוך כל יום חוף לבלתי נשכח.
+
+### מדריך התאמה
+https://bandolero-41792347.zappy5.app/fit-guide
+גלי איך למצוא את בגד הים שיחמיא לך באמת. מדריך ההתאמה של Bandolero עוזר לך לבחור את המידה המושלמת בקלות. טיפים, טבלאות מידות וכל הסודות להתאמה מדויקת. היכנסי עכשיו ותרגישי בטוחה בכל בגד ים.
+
+### הסיפור שלנו
+https://bandolero-41792347.zappy5.app/brand-story
+מאחורי כל בגד ים של Bandolero מסתתר סיפור של תשוקה, עיצוב והשראה. בואי לגלות איך נולד המותג שמעצב מחדש את חוויית החוף. קראי על החזון, הערכים והאנשים שמובילים את המהפכה. הצטרפי למסע עכשיו.
+
+### צור קשר
+https://bandolero-41792347.zappy5.app/contact
+יש שאלה על מידה, משלוח או סתם בא לך להגיד שלום? צוות Bandolero תמיד זמין לעזור. מלאי את הטופס, שלחי הודעה, ונחזור אלייך במהירות עם חיוך. צרי קשר עכשיו ונהפוך את הקנייה לחוויה מושלמת.
+
+### Products
+https://bandolero-41792347.zappy5.app/products
+המוצרים שלנו - Bandolero
+
+### Cart
+https://bandolero-41792347.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://bandolero-41792347.zappy5.app/checkout
+תשלום
+
+### Login
+https://bandolero-41792347.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://bandolero-41792347.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://bandolero-41792347.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://bandolero-41792347.zappy5.app/product/:slug
+פרטי המוצר - Bandolero
+
+### Category
+https://bandolero-41792347.zappy5.app/category/:slug
+מוצרים - Bandolero
+
+### תודה שפנית אלינו
+https://bandolero-41792347.zappy5.app/thank-you
+Bandolero - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://bandolero-41792347.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bandolero-41792347.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bandolero-41792347.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Bandolero
+An online women's swimwear store focused on selling swimsuits and beachwear. The brand targets female shoppers looking to purchase swimwear online, with a potential emphasis on style, fit, and variety for different body types and tastes.
+
+## Target Audience
+- נשים
+- נשים צעירות פעילות
+- משפיעניות אופנה
+- נשים מודעות לסביבה
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bandolero-41792347.zappy5.app/sitemap.xml
+- Robots: https://bandolero-41792347.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bandolero-41792347.zappy5.app/llms-full.txt
+- Products (JSON): https://bandolero-41792347.zappy5.app/products.json
+- Products (Google Merchant RSS): https://bandolero-41792347.zappy5.app/product-feed.xml
