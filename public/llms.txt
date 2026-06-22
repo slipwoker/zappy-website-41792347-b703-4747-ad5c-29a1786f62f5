@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://bandolero-41792347.zappy5.app
+https://example.com
 ברוכה הבאה לעולם בגדי הים של Bandolero. קולקציית swimwear מעוצבת שמחמיאה לכל גזרה. מגוון סגנונות, צבעים ומידות מחכים לך. כנסי עכשיו ומצאי את הלוק שיהפוך כל יום חוף לבלתי נשכח.
 
 ### מדריך התאמה
-https://bandolero-41792347.zappy5.app/fit-guide
+https://example.com/fit-guide
 גלי איך למצוא את בגד הים שיחמיא לך באמת. מדריך ההתאמה של Bandolero עוזר לך לבחור את המידה המושלמת בקלות. טיפים, טבלאות מידות וכל הסודות להתאמה מדויקת. היכנסי עכשיו ותרגישי בטוחה בכל בגד ים.
 
 ### הסיפור שלנו
-https://bandolero-41792347.zappy5.app/brand-story
+https://example.com/brand-story
 מאחורי כל בגד ים של Bandolero מסתתר סיפור של תשוקה, עיצוב והשראה. בואי לגלות איך נולד המותג שמעצב מחדש את חוויית החוף. קראי על החזון, הערכים והאנשים שמובילים את המהפכה. הצטרפי למסע עכשיו.
 
 ### צור קשר
-https://bandolero-41792347.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או סתם בא לך להגיד שלום? צוות Bandolero תמיד זמין לעזור. מלאי את הטופס, שלחי הודעה, ונחזור אלייך במהירות עם חיוך. צרי קשר עכשיו ונהפוך את הקנייה לחוויה מושלמת.
 
 ### Products
-https://bandolero-41792347.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Bandolero
 
 ### Cart
-https://bandolero-41792347.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://bandolero-41792347.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://bandolero-41792347.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://bandolero-41792347.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://bandolero-41792347.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://bandolero-41792347.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Bandolero
 
 ### Category
-https://bandolero-41792347.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Bandolero
 
 ### תודה שפנית אלינו
-https://bandolero-41792347.zappy5.app/thank-you
+https://example.com/thank-you
 Bandolero - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://bandolero-41792347.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://bandolero-41792347.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://bandolero-41792347.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://bandolero-41792347.zappy5.app/sitemap.xml
-- Robots: https://bandolero-41792347.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://bandolero-41792347.zappy5.app/llms-full.txt
-- Products (JSON): https://bandolero-41792347.zappy5.app/products.json
-- Products (Google Merchant RSS): https://bandolero-41792347.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
